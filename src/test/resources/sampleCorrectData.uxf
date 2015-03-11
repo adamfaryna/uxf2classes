@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>7</zoom_level>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>532</x>
+      <y>224</y>
+      <w>147</w>
+      <h>133</h>
+    </coordinates>
+    <panel_attributes>Subscriber
+--
+-id: Long
+-name: String</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>308</x>
+      <y>217</y>
+      <w>147</w>
+      <h>133</h>
+    </coordinates>
+    <panel_attributes>SubscriberGroup
+--
+-id: Long
+-surname: String</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
